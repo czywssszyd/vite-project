@@ -1,8 +1,8 @@
 <template>
 <div class="g-main">
-  123
+  <indexPage></indexPage>
 </div>
 </template>
 <script setup lang="ts">
-
+import indexPage from './page/index.vue';
 </script>
