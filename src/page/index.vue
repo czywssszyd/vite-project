@@ -1,6 +1,6 @@
 <template>
   <div class="g-app">
-    hahah
+    hello vite
   </div>
 </template>
 <script lang="ts" setup>
